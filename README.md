@@ -15,7 +15,36 @@ const decryptCaesar = require("@shreyravi/decrypt-caesar");
 
 decryptCaesar("Fdhvdu Flskhu Xqhqfubswhg");
 // Unencrypted: "Caesar Cipher Unencrypted" with shift of 3
-//=> 
+// Thus, third element of resulting array is the correct decrypted result
+//decryptCaesar("Fdhvdu Flskhu Xqhqfubswhg")=> _[
+    Fdhvdu Flskhu Xqhqfubswhg
+    Ecguct Ekrjgt Wpgpetarvgf
+    Dbftbs Djqifs Vofodszqufe
+    Caesar Cipher Unencrypted
+    Bzdrzq Bhogdq Tmdmbqxosdc
+    Aycqyp Agnfcp Slclapwnrcb
+    Zxbpxo Zfmebo Rkbkzovmqba
+    Ywaown Yeldan Qjajynulpaz
+    Xvznvm Xdkczm Pizixmtkozy
+    Wuymul Wcjbyl Ohyhwlsjnyx
+    Vtxltk Vbiaxk Ngxgvkrimxw
+    Uswksj Uahzwj Mfwfujqhlwv
+    Trvjri Tzgyvi Levetipgkvu
+    Squiqh Syfxuh Kdudshofjut
+    Rpthpg Rxewtg Jctcrgneits
+    Qosgof Qwdvsf Ibsbqfmdhsr
+    Pnrfne Pvcure Harapelcgrq
+    Omqemd Oubtqd Gzqzodkbfqp
+    Nlpdlc Ntaspc Fypyncjaepo
+    Mkockb Mszrob Exoxmbizdon
+    Ljnbja Lryqna Dwnwlahycnm
+    Kimaiz Kqxpmz Cvmvkzgxbml
+    Jhlzhy Jpwoly Bulujyfwalk
+    Igkygx Iovnkx Atktixevzkj
+    Hfjxfw Hnumjw Zsjshwduyji
+    Geiwev Gmtliv Yrirgvctxih
+]_
+// Index of result in array = shift of Caesar cipher
 ```
 
 ## License

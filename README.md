@@ -1,4 +1,7 @@
 # @shreyravi/decrypt-caesar
+[![npm (scoped)](https://img.shields.io/npm/v/@shreyravi/decrypt-caesar.svg)](https://www.npmjs.com/package/@shreyravi/decrypt-caesar)
+[![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/@shreyravi/decrypt-caesar.svg)](https://www.npmjs.com/package/@shreyravi/decrypt-caesar)
+
 A package to help decrypt Caesar shift cipher-encrypted strings with an unknown shift value.
 
 ## Install

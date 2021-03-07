@@ -1,0 +1,17 @@
+{
+    "name": "@shreyravi/decrypt-caesar",
+    "version": "1.0.0",
+    "description": "Help decrypt Caesar shift cipher-encrypted strings with an unknown shift value.",
+    "license": "MIT",
+    "repository": "ShreyRavi/decrypt-caesar",
+    "main": "index.js",
+    "keywords": [
+        "encryption",
+        "decryption",
+        "caesar cipher",
+        "shift cipher",
+        "caesar",
+        "cipher",
+        "decrypt caesar"
+    ]
+  }
